@@ -3,7 +3,7 @@
 import UIKit
 
 var str = "Hello, playground"
-
+//reviewed on 2.18.19
 //Variable Coding Challenge #1
 var firstString = "Hello there."
 let secondString = "Goodbye."
